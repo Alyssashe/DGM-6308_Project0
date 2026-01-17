@@ -1,0 +1,10 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e1b1b1;
+  padding: 40px;
+}
+
+h1 {
+  color: #333;
+  cursor: pointer;
+}
